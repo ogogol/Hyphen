@@ -1,0 +1,240 @@
+﻿1st,first
+2nd,second
+3rd,third
+4th,fourth
+5th,fifth
+6th,sixth
+7th,seventh
+8th,eighth
+9th,ninth
+10th,tenth
+11th,eleventh 
+12th,twelfth
+13th,thirteenth
+14th,fourteenth
+15th,fifteenth
+16th,sixteenth
+17th,seventeenth
+18th,eighteenth
+19th,nineteenth
+20th,twentieth
+30th,thirtieth 
+40th,fortieth
+50th,fiftieth
+60th,sixtieth
+70th,seventieth
+80th,eightieth
+90th,ninetieth
+100th,hundredth
+1%,one per cent
+2%,two per cent
+3%,three per cent
+4%,four per cent
+5%,five per cent
+6%,six per cent
+7%,seven per cent
+8%,eight per cent
+9%,nine per cent
+10%,ten per cent
+11%,eleven per cent
+12%,twelve per cent
+13%,thirteen per cent
+14%,fourteen per cent
+15%,fifteen per cent
+16%,sixteen per cent
+17%,seventeen per cent
+18%,eighteen per cent
+19%,nineteen per cent
+20%,twenty per cent
+30%,thirty per cent
+40%,forty per cent
+50%,fifty per cent
+60%,sixty per cent
+70%,seventy per cent
+80%,eighty per cent
+90%,ninety per cent
+100%,one hundred per cent
+ii,second
+iii,third
+percent,per cent
+cafe,cafe
+now's,now is
+em,them
+i'm,i am
+it has been,it's been
+he has been,he's been
+she has been,she's been
+it is,it's
+it has,it's
+he is,he's
+he has,he's
+she is,she's
+she has,she's
+that has been,that's been
+that's,that is
+there is,there's
+there has,there's
+here is,here's
+here has,here is
+who has been,who's been
+who is,who's
+one has been,one's been
+one is,one's
+what is,what's
+what has,what's
+where is,where's
+where has,where's
+where've,where have
+name's,name is
+they're,they are
+we're,we are
+you're,you are
+i will,i'll
+i shall,i'll
+it'll,it will
+he'll,he will
+she'll,she will
+who'll,who will
+they'll,they will
+there'll,there will
+we will,we'll
+we shall,we'll
+you'll,you will
+that'll,that will
+i've,i have
+they've,they have
+we've,we have
+you've,you have
+i had,i'd
+i would,i'd
+i should,i'd
+he had,he'd
+he would,he'd
+she had,she'd
+she would,she'd
+who had,who'd
+who would,who'd
+they had,they'd
+they would,they'd
+we had,we'd
+we would,we'd
+we should,we'd
+you had,you'd
+you would,you'd
+gonna,going to
+wanna,want to
+alright,all right
+ain’t,am not
+ain’t,is not
+ain’t,are not
+ain’t,have not
+ain’t,has not
+cannot,can't
+ca not,can't
+gotta,have got to
+gotta,got to
+a hundred,one hundred
+a thousand,one thousand
+a million,one million
+a billion,one billion
+a milliard,one milliard
+mr,mister
+dr,doctor
+mrs,missis
+ms,miss
+bout,about
+cause,because
+let's,let us
+yeah,yes
+okay,ok
+ma'am,madame
+madam,madame
+thankyou,thank you
+businesswoman,business woman
+schoolboy,school boy
+schoolgirl,school girl 
+anytime,any time
+everyday,every day
+goodnight,good night
+im,i am
+anymore,any more
+4x4,four by four
+man has,man's
+man is,man's
+saint,st
+neighbor,neighbour
+neighbored,neighboured
+neighboring,neighbouring
+neighbors,neighbours
+center,centre
+centers,centres
+theater,theatre
+theaters,theatres
+realize,realise
+realizing,realising
+realized,realised
+recognize,recognise
+recognized,recognised
+recognizing,recognising
+organize,organise
+organized,organised
+organizing,organising
+anna,ann
+practice,practise
+practiced,practised
+practicing,practising
+centimetre,centimeter
+centimetres,centimeters
+kilometre,kilometer
+kilometres,kilometers
+meter,metre
+meters,metres
+around,round
+traveled,travelled
+traveling,travelling
+honor,honour
+labor,labour
+humor,humour
+color,colour
+colorize,colourise
+colorized,colourised
+colorizing,colourising
+paralyze,paralyse
+paralyzed,paralysed
+paralyzing,paralysing
+tire,tyre
+tires,tyres
+program,programme
+pajamas,pyjamas
+airplane,aeroplane
+check,cheque
+defense,defence
+woolen,woollen
+gaol,jail
+canceled,cancelled
+catalog,catalogue
+dialog,dialogue
+monolog,monologue
+saber,sabre
+pretense,pretence
+math,maths
+gray,grey
+whiskey,whisky
+maneuver,manoeuvre
+diarrhea,diarrhoea
+aluminum,aluminium
+polyethylene,polythene
+favor,favour
+favorite,favourite
+behavior,behaviour
+fueled,fuelled
+instalment,installment
+encyclopedia,encyclopaedia
+liter,litre
+liters,litres
+apologize,apologise
+apologized,apologised
+apologizing,apologising
+colonize,colonise
+colonized,colonised
+colonizing,colonising
